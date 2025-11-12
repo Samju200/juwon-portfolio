@@ -126,7 +126,7 @@ export default function App() {
                   },
                   {
                     title: "Frontend Engineer — Fetch & Edukoya",
-                    meta: "Remote roles — 2020–2023",
+                    meta: "Remote roles — 2020–2021",
                     bullets: [
                       "Built user dashboards and UIs with React, Redux, and Bubble.",
                     ],
@@ -134,7 +134,7 @@ export default function App() {
                   {
                     title:
                       "Environmental Chemist — Environmental Resources Managers Ltd",
-                    meta: "Lagos — 2017 — 2023",
+                    meta: "Lagos — 2017 — 2020",
                     bullets: [
                       "Performed lab analyses and field investigations — analytical thinking applied to software engineering.",
                     ],
@@ -259,6 +259,10 @@ export default function App() {
                   {
                     name: "Kwikee App (MoneyMarque)",
                     desc: "Angular frontend and secure APIs for payments, KYC, and credit checks.",
+                  },
+                  {
+                    name: "Celler (Tampay)",
+                    desc: "Multi-asset trading backend, custodial wallets, fiat rails,",
                   },
                   {
                     name: "Dufuna Learning Platform",
