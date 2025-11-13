@@ -69,6 +69,7 @@ export default function App() {
                     "Backend Architecture",
                     "Blockchain Integrations",
                     "API Design",
+                    "API Frontend Implementation",
                     "KYC & Payments",
                     "Performance Optimization",
                     "Mentoring & Leadership",
