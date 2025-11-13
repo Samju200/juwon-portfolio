@@ -227,6 +227,8 @@ export default function App() {
               <div className="flex flex-wrap gap-2">
                 {[
                   "NestJS",
+                  "PHP Laravel",
+                  "ExpressJS",
                   "Angular",
                   "React",
                   "Vue",
@@ -234,9 +236,9 @@ export default function App() {
                   "MySQL",
                   "MongoDB",
                   "Ethers.js",
-                  "KMS & Security",
+                  // "KMS & Security",
                   "Redis",
-                  "Docker",
+                  // "Docker",
                 ].map((s) => (
                   <span
                     key={s}
