@@ -258,7 +258,15 @@ export default function App() {
                   },
                   {
                     name: "Kwikee App (MoneyMarque)",
-                    desc: "Angular frontend and secure APIs for payments, KYC, and credit checks.",
+                    desc: "Angular frontend and PHP Laravel secure APIs for payments, KYC, and credit checks.",
+                  },
+                  {
+                    name: "MoneyMarque Web App (MoneyMarque)",
+                    desc: "Angular frontend and PHP Laravel secure APIs for payments, KYC, and credit checks.",
+                  },
+                  {
+                    name: "Bpayex(BonusPay)",
+                    desc: "Multi-asset trading backend, custodial wallets, fiat rails,",
                   },
                   {
                     name: "Celler (Tampay)",
